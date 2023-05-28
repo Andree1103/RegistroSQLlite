@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyCl2AndreeChiquis</string>
+    <string name="nombre_del_cliente">Nombre del Cliente</string>
+    <string name="registrar_servicio">Registrar Servicio</string>
+    <string name="tipo_servicio">Tipo Servicio</string>
+    <string name="medio_De_pago">Medio de Pago</string>
+    <string name="nombre_mascota">Nombre de las Mascota</string>
+    <string name="tipo_mascota">Tipo de Mascota</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="tarjeta">Tarjeta</string>
+    <string name="rd_yape">Yape</string>
+    <string name="perro">Perro</string>
+    <string name="gato">Gato</string>
+    <string name="serivicio">Serivicio</string>
+    <string name="tipo_mascotas">Tipo Mascota</string>
+    <string name="ba_no">Baño</string>
+    <string name="nom_mascota">Nom Mascota:</string>
+    <string name="servicio">Servicio:</string>
+    <string name="costo">Costo:</string>
+    <string name="register">Registrar</string>
+    <string name="atras">Atras</string>
+</resources>
